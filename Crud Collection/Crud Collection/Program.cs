@@ -115,7 +115,7 @@ namespace CRUD
             Console.WriteLine("\nSilahkan Pilih Jenis Karyawan: ");
             Console.WriteLine("1. Karyawan Tetap \n2. Karyawan Harian \n3. Sales");
 
-        // input pilihan tambah karyawan
+        // input pilihan tambahan karyawan
         InvalidOption:
             string opt;
             Console.Write("Masukkan Pilihan [1-3]: ");
